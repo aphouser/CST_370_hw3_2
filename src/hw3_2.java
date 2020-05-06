@@ -36,7 +36,9 @@ public class hw3_2 {
                 }
             }
 
-            System.out.print("\n");
+            if (j != Math.pow(2, elements)-1) {
+                System.out.print("\n");
+            }
         }
 
         in.close();
