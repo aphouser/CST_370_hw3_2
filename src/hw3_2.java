@@ -1,3 +1,13 @@
+/*
+ * HackerRank link:https://www.hackerrank.com/contests/cst370-su20-hw3/challenges/binary-numbs/submissions/code/1323407569
+ * Title: hw3_2.java
+ * Abstract: Reads user input of number of elements in a set and then those set elements.
+ *          Output is all combinations of those elements
+ * Author: Adam Houser
+ * ID: 1144
+ * Date: 5/6/2020
+ */
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
